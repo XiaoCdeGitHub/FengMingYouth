@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "社群互助",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper",
+    "u-search": "/uni_modules/uview-ui/components/u-search/u-search",
+    "u-picker": "/uni_modules/uview-ui/components/u-picker/u-picker",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-tag": "/uni_modules/uview-ui/components/u-tag/u-tag"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "pages": [
+    "pages/nav/nav",
+    "pages/index/index",
+    "pages/CommunityHelp/CommunityHelp",
+    "pages/Home/Home",
+    "pages/ShoppingCart/ShoppingCart",
+    "pages/PersonalCenter/PersonalCenter",
+    "pages/ShopDeatil/ShopDeatil"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#009966",
+    "backgroundColor": "#009966"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "selectedColor": "#c52026",
+    "color": "#009966",
+    "list": [
+      {
+        "pagePath": "pages/nav/nav",
+        "iconPath": "static/tabbar/u57.png",
+        "selectedIconPath": "static/tabbar/u57.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/CommunityHelp/CommunityHelp",
+        "iconPath": "static/tabbar/u60.png",
+        "selectedIconPath": "static/tabbar/u60.png",
+        "text": "社群互助"
+      },
+      {
+        "pagePath": "pages/Home/Home",
+        "iconPath": "static/tabbar/u63.png",
+        "selectedIconPath": "static/tabbar/u63.png",
+        "text": "蜂茗"
+      },
+      {
+        "pagePath": "pages/ShoppingCart/ShoppingCart",
+        "iconPath": "static/tabbar/u66.png",
+        "selectedIconPath": "static/tabbar/u66.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/PersonalCenter/PersonalCenter",
+        "iconPath": "static/tabbar/u69.png",
+        "selectedIconPath": "static/tabbar/u69.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
